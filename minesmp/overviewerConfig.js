@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1672483802",
+        "cacheTag": "1672498681",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -46,6 +46,34 @@ var overviewerConfig = {
             "defaultZoom": 1,
             "maxZoom": 11,
             "path": "minesmpday",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "minesmp - overworld",
+            "last_rendertime": 1672482167,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -1967,
+                181,
+                -1480
+            ],
+            "lastrenderversion": 2,
+            "minZoom": 0,
+            "spawn": [
+                -1967,
+                181,
+                -1480
+            ],
+            "north_direction": 0
+        },
+        {
+            "name": "Mine-SMP Nighttime",
+            "zoomLevels": 11,
+            "defaultZoom": 1,
+            "maxZoom": 11,
+            "path": "minesmpnight",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
