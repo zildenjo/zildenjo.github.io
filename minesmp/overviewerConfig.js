@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1672632949",
+        "cacheTag": "1672649832",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,22 +49,22 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1672631471,
+            "last_rendertime": 1672642623,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3500,
-                154,
-                -3886
+                -3262,
+                191,
+                -3337
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3500,
-                154,
-                -3886
+                -3262,
+                191,
+                -3337
             ],
             "north_direction": 0
         },
@@ -77,22 +77,22 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1672631471,
+            "last_rendertime": 1672642623,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3500,
-                154,
-                -3886
+                -3262,
+                191,
+                -3337
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3500,
-                154,
-                -3886
+                -3262,
+                191,
+                -3337
             ],
             "north_direction": 0
         }
