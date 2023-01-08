@@ -23,11 +23,12 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "minesmp - overworld"
+        "minesmp - overworld",
+        "minesmp - resource_world"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1672802947",
+        "cacheTag": "1673168127",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -49,7 +50,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1672802371,
+            "last_rendertime": 1673166397,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -77,7 +78,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1672802371,
+            "last_rendertime": 1673166397,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
@@ -94,6 +95,54 @@ var overviewerConfig = {
                 191,
                 -3337
             ],
+            "north_direction": 0
+        },
+        {
+            "name": "Resource Daytime",
+            "zoomLevels": 11,
+            "defaultZoom": 1,
+            "maxZoom": 11,
+            "path": "resourceday",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "minesmp - resource_world",
+            "last_rendertime": 1673165333,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -3262,
+                191,
+                -3337
+            ],
+            "lastrenderversion": 2,
+            "minZoom": 0,
+            "spawn": false,
+            "north_direction": 0
+        },
+        {
+            "name": "Resource Nighttime",
+            "zoomLevels": 11,
+            "defaultZoom": 1,
+            "maxZoom": 11,
+            "path": "resourcenight",
+            "base": "",
+            "bgcolor": "#1a1a1a",
+            "world": "minesmp - resource_world",
+            "last_rendertime": 1673165333,
+            "imgextension": "png",
+            "isOverlay": false,
+            "poititle": "Markers",
+            "showlocationmarker": true,
+            "center": [
+                -3262,
+                191,
+                -3337
+            ],
+            "lastrenderversion": 2,
+            "minZoom": 0,
+            "spawn": false,
             "north_direction": 0
         }
     ]
