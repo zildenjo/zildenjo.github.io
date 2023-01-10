@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1673325438",
+        "cacheTag": "1673352709",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -56,18 +56,20 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3537,
-                76,
-                -3887
+                -3435,
+                -63,
+                -3903
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3537,
-                76,
-                -3887
+                -3435,
+                -63,
+                -3903
             ],
-            "north_direction": 0
+            "north_direction": 0,
+            "render_in_progress": true,
+            "forcerendertime": 0
         },
         {
             "name": "Mine-SMP Nighttime",
@@ -84,18 +86,20 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3537,
-                76,
-                -3887
+                -3435,
+                -63,
+                -3903
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3537,
-                76,
-                -3887
+                -3435,
+                -63,
+                -3903
             ],
-            "north_direction": 0
+            "north_direction": 0,
+            "render_in_progress": true,
+            "forcerendertime": 0
         },
         {
             "name": "Resource Daytime",
@@ -112,14 +116,16 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3537,
-                76,
-                -3887
+                -3435,
+                -63,
+                -3903
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
-            "north_direction": 0
+            "north_direction": 0,
+            "render_in_progress": true,
+            "forcerendertime": 0
         },
         {
             "name": "Resource Nighttime",
@@ -136,14 +142,16 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3537,
-                76,
-                -3887
+                -3435,
+                -63,
+                -3903
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
-            "north_direction": 0
+            "north_direction": 0,
+            "render_in_progress": true,
+            "forcerendertime": 0
         }
     ]
 };
