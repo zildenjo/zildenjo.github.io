@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1673404047",
+        "cacheTag": "1673434066",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,22 +50,22 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1673403332,
+            "last_rendertime": 1673433644,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3597,
-                -21,
-                -3935
+                -3293,
+                103,
+                -3489
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3597,
-                -21,
-                -3935
+                -3293,
+                103,
+                -3489
             ],
             "north_direction": 0
         },
@@ -78,22 +78,22 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1673403332,
+            "last_rendertime": 1673433644,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3597,
-                -21,
-                -3935
+                -3293,
+                103,
+                -3489
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3597,
-                -21,
-                -3935
+                -3293,
+                103,
+                -3489
             ],
             "north_direction": 0
         },
@@ -112,9 +112,9 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3597,
-                -21,
-                -3935
+                -3293,
+                103,
+                -3489
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
@@ -136,9 +136,9 @@ var overviewerConfig = {
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3597,
-                -21,
-                -3935
+                -3293,
+                103,
+                -3489
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
