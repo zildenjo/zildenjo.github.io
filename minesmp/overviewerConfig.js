@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1673352709",
+        "cacheTag": "1673404047",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,26 +50,24 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1673321188,
+            "last_rendertime": 1673403332,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3435,
-                -63,
-                -3903
+                -3597,
+                -21,
+                -3935
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3435,
-                -63,
-                -3903
+                -3597,
+                -21,
+                -3935
             ],
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 0
+            "north_direction": 0
         },
         {
             "name": "Mine-SMP Nighttime",
@@ -80,26 +78,24 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1673321188,
+            "last_rendertime": 1673403332,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3435,
-                -63,
-                -3903
+                -3597,
+                -21,
+                -3935
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3435,
-                -63,
-                -3903
+                -3597,
+                -21,
+                -3935
             ],
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 0
+            "north_direction": 0
         },
         {
             "name": "Resource Daytime",
@@ -110,22 +106,20 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - resource_world",
-            "last_rendertime": 1673318875,
+            "last_rendertime": 1673402932,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3435,
-                -63,
-                -3903
+                -3597,
+                -21,
+                -3935
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 0
+            "north_direction": 0
         },
         {
             "name": "Resource Nighttime",
@@ -136,22 +130,20 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - resource_world",
-            "last_rendertime": 1673318875,
+            "last_rendertime": 1673402932,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3435,
-                -63,
-                -3903
+                -3597,
+                -21,
+                -3935
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": false,
-            "north_direction": 0,
-            "render_in_progress": true,
-            "forcerendertime": 0
+            "north_direction": 0
         }
     ]
 };
