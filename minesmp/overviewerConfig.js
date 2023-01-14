@@ -28,7 +28,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1673592502",
+        "cacheTag": "1673674447",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -50,22 +50,22 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1673494393,
+            "last_rendertime": 1673672360,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3262,
-                191,
-                -3338
+                -3597,
+                -20,
+                -3935
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3262,
-                191,
-                -3338
+                -3597,
+                -20,
+                -3935
             ],
             "north_direction": 0
         },
@@ -78,22 +78,22 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - overworld",
-            "last_rendertime": 1673494393,
+            "last_rendertime": 1673672360,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3262,
-                191,
-                -3338
+                -3597,
+                -20,
+                -3935
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
             "spawn": [
-                -3262,
-                191,
-                -3338
+                -3597,
+                -20,
+                -3935
             ],
             "north_direction": 0
         },
@@ -106,15 +106,15 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - resource_world",
-            "last_rendertime": 1673494288,
+            "last_rendertime": 1673668962,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3262,
-                191,
-                -3338
+                -3597,
+                -20,
+                -3935
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
@@ -130,15 +130,15 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "minesmp - resource_world",
-            "last_rendertime": 1673494288,
+            "last_rendertime": 1673668962,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
-                -3262,
-                191,
-                -3338
+                -3597,
+                -20,
+                -3935
             ],
             "lastrenderversion": 2,
             "minZoom": 0,
